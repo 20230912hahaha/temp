@@ -4,19 +4,7 @@ int main(void)
 {
 
 
-
-
-
-
-
-	printf(" code1\n");
-	printf(" code1\n");
-	printf(" code1\n");
-	printf(" code1\n");
-	printf(" code1\n");
-	printf(" code1\n");
-	printf(" code1\n");
+  
 	
-	printf(" code1\n");
-	return 0;
+	printf("删库跑路 哈哈哈\n");	return 0;
 }
